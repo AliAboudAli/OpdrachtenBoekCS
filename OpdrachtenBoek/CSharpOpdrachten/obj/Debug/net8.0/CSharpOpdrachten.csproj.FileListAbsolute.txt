@@ -1,0 +1,15 @@
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.exe
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.deps.json
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.runtimeconfig.json
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.dll
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.pdb
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.GeneratedMSBuildEditorConfig.editorconfig
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfoInputs.cache
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfo.cs
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.csproj.CoreCompileInputs.cache
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.sourcelink.json
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.dll
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\refint\CSharpOpdrachten.dll
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.pdb
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.genruntimeconfig.cache
+I:\Portfolio - Project\OpdrachtenBoekCS\OpdrachtenBoek\CSharpOpdrachten\obj\Debug\net8.0\ref\CSharpOpdrachten.dll

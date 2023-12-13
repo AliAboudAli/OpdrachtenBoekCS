@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\RiderProjects\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {}
+    "I:\\Portfolio - Project\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {}
   },
   "projects": {
-    "I:\\RiderProjects\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {
+    "I:\\Portfolio - Project\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\RiderProjects\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
+        "projectUniqueName": "I:\\Portfolio - Project\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
         "projectName": "CSharpOpdrachten",
-        "projectPath": "I:\\RiderProjects\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
+        "projectPath": "I:\\Portfolio - Project\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
         "packagesPath": "C:\\Users\\aliab\\.nuget\\packages\\",
-        "outputPath": "I:\\RiderProjects\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\obj\\",
+        "outputPath": "I:\\Portfolio - Project\\OpdrachtenBoekCS\\OpdrachtenBoek\\CSharpOpdrachten\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aliab\\AppData\\Roaming\\NuGet\\NuGet.Config",
