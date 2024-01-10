@@ -13,6 +13,9 @@ class Program
        
        //BasisVariabelen basis = new BasisVariabelen();
        //basis.Using();
+
+       BewerkingVariabelen bewerking = new BewerkingVariabelen();
+       bewerking.bewerking();
        
     }
 }
@@ -180,6 +183,35 @@ class BewerkingVariabelen
 {
     public void bewerking()
     {
-        //22
+        //22 
+        char letter = '5';
+        char letter2 = '7';
+        Console.WriteLine($"char van waarde: {letter}");
+        Console.WriteLine($"char van waarde: {letter2}");
+
+        // 23
+        int berekenDeChar = letter;
+
+        // 24-25
+        int result = berekenDeChar + (letter2 - '0'); 
+        Console.WriteLine($"resultaat: {result}");
+        //26 
+        //ik kreeg 60 als resultaat in de console, ik verwachtte een ander getal maar het bleek wel goed als ik via de code doorleest.
+        //27
+        string Tekst = "GoodBye ";
+        string Tekst2 = "World!";
+        //28 
+        string resulting = Tekst + Tekst2;
+        //29-30
+        Console.WriteLine($"Result string: {resulting}");
+        //31
+        int Eight = 8;
+        int Nine = 9;
+        int Ignore;
+        //32 
+        Ignore = Eight + Nine;
+        //33
+        Console.WriteLine("Result: " + Ignore);
+
     }
 }
