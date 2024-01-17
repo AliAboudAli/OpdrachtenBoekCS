@@ -212,6 +212,14 @@ class BewerkingVariabelen
         Ignore = Eight + Nine;
         //33
         Console.WriteLine("Result: " + Ignore);
-
+        //34
+        //ja dit klopt volgens de berekening omdat 8 + 9 is 17 en ignore is een int waarde zonder waarde
+        //35
+        string MijnString;
+        string MijnString2 = "You have lost!";
+        int MijnInt = 34;
+        //36 
+        String MijnStringOptellen = MijnString + MijnInt.ToString();
+        
     }
 }
