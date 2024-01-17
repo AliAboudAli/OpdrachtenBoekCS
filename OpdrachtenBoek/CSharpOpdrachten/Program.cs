@@ -5,17 +5,26 @@ class Program
     static void Main(string[] args)
     {
         // comment de hoofdstuk die u wilt controleren
+        //_______________________________________________________________
+        //Hoofdstuk1
        //Schrijven schrijven = new Schrijven();
        //schrijven.Schrijft();
        
+       //Hoofdstuk2
        //Lezen lezen = new Lezen();
        //lezen.Leest();
        
+       //Hoofdstuk3
        //BasisVariabelen basis = new BasisVariabelen();
        //basis.Using();
 
-       BewerkingVariabelen bewerking = new BewerkingVariabelen();
-       bewerking.bewerking();
+       //Hoofdstuk4
+       //BewerkingVariabelen bewerking = new BewerkingVariabelen();
+       //bewerking.bewerking();
+       
+       //Hoofdstuk5
+       CastingEnConversie casting = new CastingEnConversie();
+       casting.castingenconversie();
        
     }
 }
@@ -193,7 +202,7 @@ class BewerkingVariabelen
         int berekenDeChar = letter;
 
         // 24-25
-        int result = berekenDeChar + (letter2 - '0'); 
+        int result = berekenDeChar + (letter2 - '0');
         Console.WriteLine($"resultaat: {result}");
         //26 
         //ik kreeg 60 als resultaat in de console, ik verwachtte een ander getal maar het bleek wel goed als ik via de code doorleest.
@@ -217,9 +226,30 @@ class BewerkingVariabelen
         //35
         string MijnString;
         string MijnString2 = "You have lost!";
-        int MijnInt = 34;
+        int MijnInt = MijnString2.Length;
         //36 
-        String MijnStringOptellen = MijnString + MijnInt.ToString();
+        MijnString = MijnInt.ToString();
+        //37
+        Console.WriteLine("Uitslag! " + MijnString);
+        //38
+        //ja, dit klopt volgens de berekening van de string met 14 karakters inclusief spaties
+    }
+}
+class CastingEnConversie()
+{
+    public void castingenconversie()
+    {
+        //40
+        int InvoerRechten = 8;
+        char Fout = 'x';
+        string FoutMelding = "Error 420";
+        //41 - A-B-C 
+        int help = Convert.ToInt32(Fout);
+        Fout = Convert.ToChar(InvoerRechten);
+        InvoerRechten = Convert.ToInt32(FoutMelding);
+        //42
+        char Protocol = '4';
+        //43
         
     }
 }
